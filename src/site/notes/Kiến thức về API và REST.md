@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/kien-thuc-ve-api-va-rest/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
-1.Đầu tiên, là khái niệm về **API**
+1. Đầu tiên, là khái niệm về **API**
 	- Viết tắt của Application Programing Interface 
 	- API cho phép chúng ta xây dựng chức năng cho phép 1 ứng dụng gửi yêu cầu đến ứng dụng khác ,và ứng dụng kia sẽ trả về thứ gì đó ? Thứ gì đó ở đây là Dữ liệu JSON . 
     - JSON  là JavaScript Object Notation, nó là 1 kí hiệu đối tượng trong JavaScript, có ưu điểm là nhẹ, dễ tryền trên internet, và được hỗ trợ hầu hết trên mọi ngôn ngữ . JSON được lưu trữ dưới dạng key : value (giống dictionary trong python)
